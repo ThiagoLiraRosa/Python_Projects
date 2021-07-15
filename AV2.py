@@ -1,0 +1,1 @@
+av1=float(input("Insira a nota AV1: "))
